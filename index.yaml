@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  portieris:
+  - apiVersion: v1
+    created: "2021-04-20T15:13:32.819367-05:00"
+    description: Admission Controller webhook for enforcing image trust in your cluster
+    digest: 6d66966f6fc688f769eec718b843e4d05cf1e629a60844b60d495480619782af
+    name: portieris
+    urls:
+    - https://hamburgerbun.github.io/helmchart/portieris-v0.10.2.tgz
+    version: v0.10.2
+generated: "2021-04-20T15:13:32.817708-05:00"
